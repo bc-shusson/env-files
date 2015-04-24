@@ -19,6 +19,6 @@ if [ -f $(brew --prefix)/etc/bash_completion ]; then
 fi
 
 # Git aliases
-alias gst='git status'
+alias gts='git status'
 
 alias ll='ls -l'
